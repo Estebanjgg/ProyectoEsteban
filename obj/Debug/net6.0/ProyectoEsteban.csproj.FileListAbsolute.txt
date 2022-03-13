@@ -1,0 +1,15 @@
+C:\Users\esteb\Documents\Practicas\ProyectoEsteban\bin\Debug\net6.0\ProyectoEsteban.exe
+C:\Users\esteb\Documents\Practicas\ProyectoEsteban\bin\Debug\net6.0\ProyectoEsteban.deps.json
+C:\Users\esteb\Documents\Practicas\ProyectoEsteban\bin\Debug\net6.0\ProyectoEsteban.runtimeconfig.json
+C:\Users\esteb\Documents\Practicas\ProyectoEsteban\bin\Debug\net6.0\ProyectoEsteban.dll
+C:\Users\esteb\Documents\Practicas\ProyectoEsteban\bin\Debug\net6.0\ProyectoEsteban.pdb
+C:\Users\esteb\Documents\Practicas\ProyectoEsteban\obj\Debug\net6.0\ProyectoEsteban.csproj.AssemblyReference.cache
+C:\Users\esteb\Documents\Practicas\ProyectoEsteban\obj\Debug\net6.0\ProyectoEsteban.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esteb\Documents\Practicas\ProyectoEsteban\obj\Debug\net6.0\ProyectoEsteban.AssemblyInfoInputs.cache
+C:\Users\esteb\Documents\Practicas\ProyectoEsteban\obj\Debug\net6.0\ProyectoEsteban.AssemblyInfo.cs
+C:\Users\esteb\Documents\Practicas\ProyectoEsteban\obj\Debug\net6.0\ProyectoEsteban.csproj.CoreCompileInputs.cache
+C:\Users\esteb\Documents\Practicas\ProyectoEsteban\obj\Debug\net6.0\ProyectoEsteban.dll
+C:\Users\esteb\Documents\Practicas\ProyectoEsteban\obj\Debug\net6.0\refint\ProyectoEsteban.dll
+C:\Users\esteb\Documents\Practicas\ProyectoEsteban\obj\Debug\net6.0\ProyectoEsteban.pdb
+C:\Users\esteb\Documents\Practicas\ProyectoEsteban\obj\Debug\net6.0\ProyectoEsteban.genruntimeconfig.cache
+C:\Users\esteb\Documents\Practicas\ProyectoEsteban\obj\Debug\net6.0\ref\ProyectoEsteban.dll
